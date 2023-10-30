@@ -1,14 +1,23 @@
 first create database with name task
+<br>
 run command 
+<br>
 php artisan migrate 
+<br>
 php artisan db:seed
+<br>
 Admin Credentials are:
+<br>
 email: admin@example.com
+<br>
 password: 123456
+<br>
 User Credentials:
+<br>
 email:user1@example.com
+<br>
 password: 123456
-
+<br>
 there are five users created with same password and email is changed with user1,user2,user3,user4,user5 @example.com
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
